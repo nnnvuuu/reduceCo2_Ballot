@@ -1,7 +1,7 @@
 # reduceCo2_Ballot
 
 
-soilidty, the blockchain programming language is develope smart contract as the backend logic.
+solidity, the blockchain programming language is develope smart contract as the backend logic.
 implement user interface using bootstrap 
 last,a "glue code" of javascrpit to combine the smart contract with user interface
 
